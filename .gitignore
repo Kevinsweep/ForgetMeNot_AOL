@@ -1,0 +1,10 @@
+.env
+*.env
+
+# arduino
+config.h
+
+# MainFeat
+__pycache__
+
+.vscode
